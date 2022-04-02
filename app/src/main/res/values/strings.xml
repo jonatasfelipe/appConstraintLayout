@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="titulo">Aprenda sobre edição de imagem</string>
+    <string name="data">10/05/2030</string>
+    <string name="texto_noticia">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pretium porta eros, non pulvinar ante venenatis a. Integer a faucibus leo. Nulla sagittis semper neque, vel bibendum magna cursus eget. Duis eget tincidunt lectus. Nullam et tristique nibh. Nulla luctus turpis non rhoncus iaculis. Nunc convallis lorem felis, ac fermentum tellus euismod vitae. Sed justo ligula, bibendum a feugiat eu, convallis vitae ex. Suspendisse in scelerisque erat. Nunc convallis lorem felis, ac fermentum tellus euismod vitae. Sed justo ligula, bibendum a feugiat eu, convallis vitae ex. Suspendisse in scelerisque erat. Nunc convallis lorem felis, ac fermentum tellus euismod vitae. Sed justo ligula, bibendum a feugiat eu, convallis vitae ex. Suspendisse in scelerisque erat.</string>
+    <string name="proximo">Próximo</string>
+    <string name="anterior">Anterior</string>
+    <string name="autor">Jônatas Gonçalves</string>
+    <string name="imagem_noticia">imagem_noticia</string>
+</resources>
