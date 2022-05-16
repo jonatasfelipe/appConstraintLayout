@@ -1,4 +1,4 @@
-<center><h1>appConstraintLayout 📱</h1></center>
+<center><h1>appNoticiaLayout 📱</h1></center>
 
 <h3>Simples interface estática para aprendizado em desenvolvimento Android.</h3>
 
